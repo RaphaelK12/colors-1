@@ -1,0 +1,7 @@
+{
+  "name": "colors",
+  "author": "Stefan Dreyer <stefan.3r@gmx.de>",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "some color conversion functions"
+}
